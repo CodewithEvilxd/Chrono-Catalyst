@@ -136,12 +136,3 @@ This project uses the following open-source libraries and tools:
 - [Lucide React](https://lucide.dev/)
 - [Class Variance Authority](https://cva.style/)
 
-## Contact
-
-For any questions or feedback, please open an issue on the [GitHub repository](https://github.com/codewithEvilxd/Chrono-Catalyst) or contact the project maintainer.
-
-- **Email:** [sahilverma.webdev@gmail.com](mailto:sahilverma.webdev@gmail.com)
-- **Portfolio:** [sahilverma.dev](https://sahilverma.dev/)
-- **GitHub:** [@sahilverma-dev](https://github.com/sahilverma-dev)
-- **Twitter:** [@sahilverma_dev](https://twitter.com/sahilverma_dev)
-- **LinkedIn:** [sahilverma-dev](https://www.linkedin.com/in/sahilverma-dev/)
