@@ -34,7 +34,7 @@ To get started with Chrono Catalyst, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/sahilverma-dev/Chrono-Catalyst.git
+   git clone https://github.com/codewithEvilxd/Chrono-Catalyst.git
    cd Chrono-Catalyst
    ```
 
@@ -138,7 +138,7 @@ This project uses the following open-source libraries and tools:
 
 ## Contact
 
-For any questions or feedback, please open an issue on the [GitHub repository](https://github.com/sahilverma-dev/Chrono-Catalyst) or contact the project maintainer.
+For any questions or feedback, please open an issue on the [GitHub repository](https://github.com/codewithEvilxd/Chrono-Catalyst) or contact the project maintainer.
 
 - **Email:** [sahilverma.webdev@gmail.com](mailto:sahilverma.webdev@gmail.com)
 - **Portfolio:** [sahilverma.dev](https://sahilverma.dev/)
